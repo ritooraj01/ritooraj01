@@ -86,45 +86,17 @@ const rituraj = {
 
 <br/>
 
-<!-- CERTIFICATIONS CARDS -->
+<!-- CERTIFICATIONS -->
 ## 🏆 Certifications
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" />
-<br/>
-<sub><b>Associate Level</b></sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Microsoft-Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0078D4" />
-<br/>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=flat&logo=amazon-aws&logoColor=white" alt="AWS SAA" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-AZ--900-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure AZ-900" />
+</p>
 
 <br/>
 
-<!-- GITHUB STATS WITH BETTER LAYOUT -->
-## 📊 GitHub Analytics
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritooraj01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-</td>
-<td width="50%" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritooraj01&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=ritooraj01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- FEATURED PROJECTS WITH MODERN CARDS -->
 ## 🚀 Featured Projects
@@ -214,7 +186,7 @@ graph LR
     style F fill:#00D9FF,stroke:#00D9FF,color:#000
 ```
 
-<sub>**while(true) { automate(); monitor(); optimize(); repeat(); }**</sub>
+<h3>while(true) { automate(); monitor(); optimize(); repeat(); }</h3>
 
 </div>
 
@@ -228,7 +200,6 @@ graph LR
 | Technology | Status | Goal |
 |:----------:|:------:|:----:|
 | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | 🟢 Active | IaC Mastery |
-| ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white) | 🟡 Learning | GitOps Pro |
 | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) | 🟢 Active | Observability++ |
 | ![K8s](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | 🟢 Active | CKA Prep |
 
@@ -256,7 +227,7 @@ graph LR
 
 <div align="center">
 
-### 💬 *"Infrastructure as Code. Code as Art. Art as Automation."*
+### 💬 *"Infrastructure is code. Code is life. Life is... well, mostly debugging."*
 
 <sub>⭐ **Star repos you find interesting** • 🍴 **Fork what you want to improve** • 💬 **Let's build something amazing**</sub>
 
