@@ -10,7 +10,7 @@
 ```typescript
 const rituraj = {
     role: "DevOps Engineer",
-    location: "India 🇮🇳",
+    workingAt: "NeGD, Ministry of Electronics & IT, Govt of India",
     workingOn: "Automating everything that moves",
     currentMission: "Making production boring (the good kind)",
     funFact: "I deploy on Fridays 😎",
@@ -19,6 +19,10 @@ const rituraj = {
 
 // Currently breaking: Nothing (touch wood 🪵)
 ```
+
+<div align="center">
+<sub>Contributing to digital India through <b>DigiLocker 2.0</b> • <b>API Setu</b> • <b>EPFO</b></sub>
+</div>
 
 <br/>
 
