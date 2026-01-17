@@ -4,13 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rituraj%20Singh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Automating+the+Impossible;Cloud+Native+%7C+SRE+%7C+Platform+Engineering;Turning+☕+into+Infrastructure" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%F0%9F%9A%80;Breaking+Prod+Since+Never;SRE+%7C+Platform+Engineering;Turning+☕+into+Infrastructure" alt="Typing SVG" />
 </h3>
 
 ```typescript
 const rituraj = {
     role: "DevOps Engineer",
-    workingAt: "NeGD, Ministry of Electronics & IT, Govt of India",
+    workingAt: "NeGD, Ministry of Electronics & IT",
     workingOn: "Automating everything that moves",
     currentMission: "Making production boring (the good kind)",
     funFact: "I deploy on Fridays 😎",
@@ -21,7 +21,7 @@ const rituraj = {
 ```
 
 <div align="center">
-<sub>Contributing to digital India through <b>DigiLocker 2.0</b> • <b>API Setu</b> • <b>EPFO</b></sub>
+<p>Contributing to digital India through <b>🔐 DigiLocker 2.0</b> • <b>🔌 API Setu</b> • <b>👥 EPFO</b></p>
 </div>
 
 <br/>
